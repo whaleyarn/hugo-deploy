@@ -1,4 +1,4 @@
-FROM node:24.15.0-slim
+FROM node:25.9.0-slim
 
 ARG app_version
 
